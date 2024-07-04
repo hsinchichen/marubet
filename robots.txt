@@ -4,6 +4,8 @@ Disallow: /login/
 Disallow: /register/
 Disallow: /private/
 
+
 Allow: /
+
 
 Sitemap: https://marubet.jp/sitemap.xml
