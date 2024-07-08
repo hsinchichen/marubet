@@ -65,6 +65,7 @@ main p {
   }
 }
 
+
 .sec_line {
   position: absolute;
   z-index: 10;
@@ -95,7 +96,7 @@ main p {
   margin: auto;
   height: 100vh;
   width: 100%;
-
+  background-image: url(/images/hero_m.webp);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
