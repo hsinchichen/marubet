@@ -1,4 +1,3 @@
-
 .globle_bg {
   background-image: url(/images/bg.webp);
   background-size: auto;
@@ -53,6 +52,7 @@ main h2 {
 }
 main p {
   font-size: 1rem;
+  font-weight: 600;
 }
 @media (min-width: 768px) {
   main p {
@@ -64,6 +64,8 @@ main p {
     font-size: 1.4rem;
   }
 }
+
+
 .sec_line {
   position: absolute;
   z-index: 10;
@@ -180,6 +182,7 @@ main p {
 .marubet_info .choois_title {
   font-family: SourceHanSerifJP-VF, sans-serif;
   font-size: 1.6rem;
+  font-weight: 900;
   color: transparent;
 }
 @media (min-width: 768px) {
