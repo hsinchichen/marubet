@@ -65,7 +65,6 @@ main p {
   }
 }
 
-
 .sec_line {
   position: absolute;
   z-index: 10;
@@ -109,7 +108,7 @@ main p {
 }
 .hero h1 {
   text-align: center;
-  font-family: SourceHanSerifJP-VF, sans-serif;
+  font-family: SourceHanSerifJP-VF, Arial, sans-serif;
   font-size: 2rem;
   font-weight: 900;
 }
