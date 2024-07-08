@@ -1,0 +1,24 @@
+@font-face {
+  font-family: SourceHanSerifJP-VF;
+  src: url(/fonts/Source_Han_Sans/SourceHanSerifJP-VF.woff2) format('woff2');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: GenEiLatin;
+  src: url(/fonts/GenEiLatin-Separate/GenEiLateGoN_v2.woff2) format('woff2');
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: gensen;
+  src: url(/fonts/gensen-font-master/GenSenRounded-B.woff2) format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: NotoSansJP;
+  src: url(/fonts/noto_SansJP/NotoSansJP-Regular.woff2) format('woff2');
+  font-weight: 600;
+  font-style: normal;
+}
